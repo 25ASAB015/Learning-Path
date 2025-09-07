@@ -97,22 +97,21 @@
 
 ## 📋 Roadmap de Aprendizaje
 
-### 🎯 **Q2 2025 (Abril - Junio)**
-- [ ] **Python Backend Development** (Abril)
-- [ ] **PostgreSQL Database Design** (Mayo)  
-- [ ] **AWS Solutions Architect** (Junio)
-- [ ] **🏆 Meta:** Crear aplicación full-stack completa
+### 🎯 **Q3 2025 (Septiembre)**
+- [ ] **** 
+- [ ] **** 
+- [ ] **** 
 
-### 🎯 **Q3 2025 (Julio - Septiembre)**
-- [ ] **React Native Mobile Development**
-- [ ] **GraphQL & Apollo**
-- [ ] **Testing Strategies (Jest, Cypress)**
+### 🎯 **Q4 2025 (Octubre - Diciembre)**
+- [ ] **TypeScript Monorepos: Architect Maintainable Projects - Frontend Masters**
+- [ ] ****
+- [ ] ****
 
 ### 💡 **Ideas para el Futuro**
-- [ ] Machine Learning con TensorFlow
-- [ ] Blockchain Development  
-- [ ] DevOps con Kubernetes
-- [ ] Game Development con Unity
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 ---
 
