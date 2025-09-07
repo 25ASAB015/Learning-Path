@@ -42,6 +42,20 @@
 
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      
+      
+**📘 [Mi configuracion personaliza de Neovim + TMUX workflow](https://github.com/25ASAB015/nvim)
+- 🏫 **Plataforma:** Omarchy Linux
+- 📅 **Inicio:** 07 Sep 2025  
+- ⏱️ **Tiempo:** “NeoVim  is not that hard, you can learn it in one day…. Everyday…”
+- 🎯 **Objetivo:** Poder navegar y refactorizar el codigo con facilidad
+
+
+
+    </td>
+  </tr>
 </table>
 
 <table>
